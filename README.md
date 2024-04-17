@@ -27,6 +27,11 @@ Non-governmental organizations (NGOs) and international aid agencies often strug
 - **Final Analysis and Recommendations**: Based on cluster analysis, underdeveloped countries in dire need of aid are identified, considering factors like low GDP per capita, low income, and high child mortality rates.
 
 - **Conclusion**: Hierarchical Clustering is chosen as the final model due to its interpretability and lack of requirement for specifying the number of clusters in advance.
+- ## Data Sources
+The project utilizes data from sources such as the World Bank, United Nations, and other reputable international organizations. The dataset includes socio-economic indicators such as GDP per capita, income, exports, imports, health expenditure, and child mortality rates.
+
+## Contributing
+Contributions are welcome! If you have any ideas for improving the project or adding new features, feel free to submit a pull request.
 
 ## How to Use
 
@@ -36,12 +41,3 @@ Follow these steps to use the project:
 
 ```bash
 https://github.com/giridhar3105/Clustering_the_Countries.git
-
-pip install -r requirements.txt
-
-## Data Sources
-The project utilizes data from sources such as the World Bank, United Nations, and other reputable international organizations. The dataset includes socio-economic indicators such as GDP per capita, income, exports, imports, health expenditure, and child mortality rates.
-
-##Contributing
-Contributions are welcome! If you have any ideas for improving the project or adding new features, feel free to submit a pull request.
-
