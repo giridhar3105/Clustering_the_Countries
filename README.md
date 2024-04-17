@@ -35,4 +35,13 @@ Follow these steps to use the project:
 1. Clone the repository:
 
 ```bash
+https://github.com/giridhar3105/Clustering_the_Countries.git
+
+pip install -r requirements.txt
+
+## Data Sources
+The project utilizes data from sources such as the World Bank, United Nations, and other reputable international organizations. The dataset includes socio-economic indicators such as GDP per capita, income, exports, imports, health expenditure, and child mortality rates.
+
+##Contributing
+Contributions are welcome! If you have any ideas for improving the project or adding new features, feel free to submit a pull request.
 
